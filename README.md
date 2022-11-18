@@ -70,17 +70,30 @@ Dashboard administrador: en el cual el administrador del despacho será capaz de
 Dashboard pagos: en el cual el administrador podrá ver los pagos realizados y cantidades de estos.
 
 # 2.- Buyer persona
+![buyer-persona](https://user-images.githubusercontent.com/114256837/202779378-3e1dd222-5c45-4304-a5fe-8d3c86192f88.jpg)
 
-[buyer persona.docx](https://github.com/GabrielCamp/AbogaBot/files/9914291/buyer.persona.docx)
 # 3.- Publico objetivo.
+![Publico-objetivo](https://user-images.githubusercontent.com/114256837/202779433-512ab770-68ba-495e-85f5-4e305bb8c6d4.jpg)
 
 # 4.- Diagrama.
+![Diagrama](https://user-images.githubusercontent.com/114256837/202779459-07a4ea24-7a09-4567-9439-0ea3f4cd01e6.jpg)
 
 # 5.- Desktop UX.
+![UX Desktop](https://user-images.githubusercontent.com/114256837/202779624-80445440-d3ad-4ebd-986a-27df1cd3db2b.jpg)
 
 # Mobile UX.
+![UX Mobile](https://user-images.githubusercontent.com/114256837/202779647-b83ab894-5f1a-4a10-a958-b88993887302.jpg)
 
 # 6.- Desktop UI.
+![UI Desktop_page-0001](https://user-images.githubusercontent.com/114256837/202779688-5cc99ced-7134-4475-9293-16c3068b7824.jpg)
+![UI Desktop_page-0002](https://user-images.githubusercontent.com/114256837/202779717-37082afc-ff2e-4e81-ba76-b088a323f16c.jpg)
+![UI Desktop_page-0003](https://user-images.githubusercontent.com/114256837/202779754-24e6102b-9742-4193-bd5c-10e969eb4d40.jpg)
+![UI Desktop_page-0004](https://user-images.githubusercontent.com/114256837/202779785-92a11e19-f225-446f-9e69-c875f992d5ac.jpg)
+![UI Desktop_page-0005](https://user-images.githubusercontent.com/114256837/202779808-e40f8887-3526-4482-a370-9d4487df25a2.jpg)
 
 # Mobile UI.
-
+![IU Mobile_page-0001](https://user-images.githubusercontent.com/114256837/202779998-c2a2d01c-d362-49c1-a3e9-691f4ea80b0b.jpg)
+![IU Mobile_page-0002](https://user-images.githubusercontent.com/114256837/202780015-8e89d956-d7b7-4572-8133-1e5e1d7810bd.jpg)
+![IU Mobile_page-0003](https://user-images.githubusercontent.com/114256837/202780045-7ab212f8-2157-45eb-89aa-5b820b828f29.jpg)
+![IU Mobile_page-0004](https://user-images.githubusercontent.com/114256837/202780069-868e8b1a-7a8c-44ea-b262-378f887e130e.jpg)
+![IU Mobile_page-0005](https://user-images.githubusercontent.com/114256837/202780086-39bbbd48-4ff7-4585-bda8-1e6f104cbf31.jpg)
